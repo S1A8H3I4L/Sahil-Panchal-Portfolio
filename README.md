@@ -1,97 +1,94 @@
 # Sahil Portfolio
 
-This is my personal portfolio website, built with Next.js 13, TypeScript, Tailwind CSS, and Shadcn UI. It includes a contact form powered by Nodemailer for sending emails.
+A personal portfolio website built with **Next.js 13**, **TypeScript**, **Tailwind CSS**, and **Shadcn UI**. It features a fully functional contact form powered by **Nodemailer** to send emails.
+
+---
 
 ## 🚀 Features
 
-- Built with **Next.js 13 App Router**
-- **TypeScript** for static typing
-- **Tailwind CSS** for fast styling
-- **Shadcn UI** for reusable, modern components
-- **Lucide-react** icons
-- Responsive and accessible
-- Contact form with **Nodemailer** integration
-- Animations and glassmorphism design
-
-- ---
-
-## 📁 Project Structure
-
-/
-├── src/
-│ ├── app/
-│ │ ├── layout.tsx
-│ │ ├── page.tsx
-│ │ └── api/
-│ │ └── contact/route.ts
-│ ├── components/
-│ │ └── ui/
-│ │ ├── button.tsx
-│ │ └── floating-label-input.tsx
-│ └── section-wrapper.tsx
-├── public/
-│ └── favicon.ico
-├── next.config.ts
-├── tailwind.config.ts
-├── postcss.config.mjs
-└── .env.local
+- Next.js 13 (App Router)
+- TypeScript for type safety
+- Tailwind CSS for rapid styling
+- Shadcn UI for modern, reusable components
+- Lucide-react icons
+- Responsive & accessible design
+- Contact form with Nodemailer integration
+- Smooth animations with glassmorphism effects
 
 ---
 
 ## ⚙️ Technologies Used
 
-- **Next.js 13** (App Router)
-- **React 18**
-- **TypeScript**
-- **Tailwind CSS**
-- **Shadcn UI**
-- **Lucide-react** icons
-- **Nodemailer**
-- **PostCSS**
+- Next.js 13
+- React 18
+- TypeScript
+- Tailwind CSS
+- Shadcn UI
+- Lucide-react
+- Nodemailer
+- PostCSS
 
 ---
 
 ## 🛠️ Getting Started
 
-Install dependencies
-  -> npm install
-  -> Configure environment variables
-      - Create a .env.local file in the project root:
-          SMTP_USER=your_gmail_account@gmail.com
-          SMTP_PASS=your_google_app_password
-      ⚠️ Make sure you use a Google App Password instead of your regular Gmail password, with 2-Step Verification enabled.
-  -> Run the development server
-      - npm run dev
-  -> Open in your browser
-      - http://localhost:3000
+### Install dependencies
+
+    \`\`\`bash  
+    npm install  
+    \`\`\`
+
+Configure environment variables
+Create a .env.local file in the project root:
+
+    \`\`\`env  
+    SMTP_USER=your_gmail_account@gmail.com  
+    SMTP_PASS=your_google_app_password  
+    \`\`\`
+    
+⚠️ Use a Google App Password instead of your normal Gmail password.
+2-Step Verification must be enabled on your Gmail account.
+
+
+Run the development server
+
+    \`\`\`bash  
+    npm run dev  
+    \`\`\`
+
+    Then open your browser at:
+http://localhost:3000
 
 ---
-      
-Contact Form
-  -> The contact form uses Nodemailer to send emails through your Gmail SMTP configuration.
-      - Be sure to:
-          enable 2-Step Verification on your Gmail
-          generate a secure App Password
-          store it in .env.local
-          so messages are sent reliably.
+
+✉️ Contact Form
+  The contact form uses Nodemailer to send emails via your Gmail SMTP configuration.
+  **Make sure you:**  
+
+    Enable 2-Step Verification on your Gmail
+    
+    Generate and use a secure App Password
+    
+    Store it safely in .env.local
 
 ---
 
-Contributing
-  -> **Contributions are welcome!**
-      - Feel free to fork, submit pull requests, or open issues for improvements.
+🤝 Contributing
+Contributions are welcome!
+Feel free to fork this repository, submit pull requests, or open issues.
 
-License
-  -> This project is licensed under the MIT License.
+---
 
+📄 License
+This project is licensed under the MIT License.
+
+---
 
 Built with ❤️ by Sahil Panchal
 
 ---
 
-✅ You can copy **all of the above**  
-→ save it as `README.md`  
-→ push to GitHub  
-→ and it will look **perfect** on your repository.
+✅ **Copy the above as a single block** → paste in your `README.md` → commit → push to GitHub.  
+It is polished, organized, and perfect for public display.
 
-If you want, just share your final GitHub link — I can check it for you as well! 🚀
+If you’d like, you can share the GitHub repo link here and I will happily review it for you! 🚀
