@@ -1,0 +1,86 @@
+module.exports = {
+
+"[project]/.next-internal/server/app/favicon.ico/route/actions.js [app-rsc] (server actions loader, ecmascript)": (function(__turbopack_context__) {
+
+var { g: global, __dirname, m: module, e: exports } = __turbopack_context__;
+{
+}}),
+"[externals]/next/dist/compiled/next-server/app-route-turbo.runtime.dev.js [external] (next/dist/compiled/next-server/app-route-turbo.runtime.dev.js, cjs)": (function(__turbopack_context__) {
+
+var { g: global, __dirname, m: module, e: exports } = __turbopack_context__;
+{
+const mod = __turbopack_context__.x("next/dist/compiled/next-server/app-route-turbo.runtime.dev.js", () => require("next/dist/compiled/next-server/app-route-turbo.runtime.dev.js"));
+
+module.exports = mod;
+}}),
+"[externals]/@opentelemetry/api [external] (@opentelemetry/api, cjs)": (function(__turbopack_context__) {
+
+var { g: global, __dirname, m: module, e: exports } = __turbopack_context__;
+{
+const mod = __turbopack_context__.x("@opentelemetry/api", () => require("@opentelemetry/api"));
+
+module.exports = mod;
+}}),
+"[externals]/next/dist/compiled/next-server/app-page-turbo.runtime.dev.js [external] (next/dist/compiled/next-server/app-page-turbo.runtime.dev.js, cjs)": (function(__turbopack_context__) {
+
+var { g: global, __dirname, m: module, e: exports } = __turbopack_context__;
+{
+const mod = __turbopack_context__.x("next/dist/compiled/next-server/app-page-turbo.runtime.dev.js", () => require("next/dist/compiled/next-server/app-page-turbo.runtime.dev.js"));
+
+module.exports = mod;
+}}),
+"[externals]/next/dist/server/app-render/work-unit-async-storage.external.js [external] (next/dist/server/app-render/work-unit-async-storage.external.js, cjs)": (function(__turbopack_context__) {
+
+var { g: global, __dirname, m: module, e: exports } = __turbopack_context__;
+{
+const mod = __turbopack_context__.x("next/dist/server/app-render/work-unit-async-storage.external.js", () => require("next/dist/server/app-render/work-unit-async-storage.external.js"));
+
+module.exports = mod;
+}}),
+"[externals]/next/dist/server/app-render/work-async-storage.external.js [external] (next/dist/server/app-render/work-async-storage.external.js, cjs)": (function(__turbopack_context__) {
+
+var { g: global, __dirname, m: module, e: exports } = __turbopack_context__;
+{
+const mod = __turbopack_context__.x("next/dist/server/app-render/work-async-storage.external.js", () => require("next/dist/server/app-render/work-async-storage.external.js"));
+
+module.exports = mod;
+}}),
+"[externals]/next/dist/server/app-render/after-task-async-storage.external.js [external] (next/dist/server/app-render/after-task-async-storage.external.js, cjs)": (function(__turbopack_context__) {
+
+var { g: global, __dirname, m: module, e: exports } = __turbopack_context__;
+{
+const mod = __turbopack_context__.x("next/dist/server/app-render/after-task-async-storage.external.js", () => require("next/dist/server/app-render/after-task-async-storage.external.js"));
+
+module.exports = mod;
+}}),
+"[project]/src/app/favicon--route-entry.js [app-rsc] (ecmascript)": ((__turbopack_context__) => {
+"use strict";
+
+var { g: global, __dirname } = __turbopack_context__;
+{
+__turbopack_context__.s({
+    "GET": (()=>GET),
+    "dynamic": (()=>dynamic)
+});
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$server$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/server.js [app-rsc] (ecmascript)");
+;
+const contentType = "image/x-icon";
+const cacheControl = "public, max-age=0, must-revalidate";
+const buffer = Buffer.from("AAABAAEAIBUAAAEAIAD8CgAAFgAAACgAAAAgAAAAKgAAAAEAIAAAAAAAgAoAABMLAAATCwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADZ2d0A2dndBNnZ3RXZ2d0g2dndINnZ3SDZ2d0g2dndINnZ3SDZ2d0g2dndINnZ3RjZ2d0G2dndANra3QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADZ2d0A2dndAtnZ3TnZ2d2V2dndxtnZ3dLZ2d3S2dnd0tnZ3dLZ2d3S2dnd0tnZ3dLZ2d3S2dndytnZ3aHZ2d1J2dndBtnZ3QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA2dndANnZ3QLZ2d1h2dnd3tnZ3fbZ2d312dnd9NnZ3fTZ2d302dnd9NnZ3fTZ2d302dnd9NnZ3fTZ2d302dnd9tnZ3ejZ2d182dndCNnZ3QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANnZ3QDZ2d0A2dndQtnZ3eHZ2d302dnd8tna3vLZ2d3y2dnd8tra3vLZ2t7y2dnd8tnZ3fLa2t7y2dne8tnZ3fLZ2d3y2dnd89nZ3e3Z2d1g2dndANnZ3QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA2dndANnZ3QfZ2d2m2dnd9tnZ3fLAr6j2z8fH9Nrc4fLZ2d3yzMPB9K6Qg/ijfm36pYFw+r+spfbW1Nbz2dre8tnZ3fLZ2d3y2dnd9dnZ3cPZ2d0U2dndAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADZ2d0A2dndINnZ3dfZ2d302tre8r+tp/aohnf5w7Sv9a+Qg/iRXkX9hUor/4JGJ/+KUzf+lGRN/KuLfPnV0tXz2dne8tnZ3fLZ2d3z2dnd6NnZ3TrZ2d0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANnZ3QDZ2d0v2dnd49nZ3fPZ2d3y2dnd8r6rpPaRX0X9hEgq/4NHKf+LUzj+onxq+sO0r/XJvrz0k2FI/bCTh/jZ2d3y2dnd8tnZ3fLZ2d3v2dndTdnZ3QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA2dndANnZ3TDZ2d3j2dnd89nZ3fLZ2d3y2dne8r2qo/aabln8o3xq+sOzrvXY1try2Njb8sW2svWTYkn9kmBH/c7GxvTa2t7y2dnd8tnZ3e/Z2d1P2dndAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADZ2d0A2dndMNnZ3ePZ2d3z2dnd8tnZ3fLZ2d3y2dnd8tbU1/LY2Nvy2Nfb8sW4tPWuj4L4sJKG+Lmjm/eVZU78yLu59drb3/LZ2d3y2dnd79nZ3U/Z2d0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANnZ3QDZ2d0w2dnd49nZ3fPZ2d3y2dnd8tnZ3fLa29/y19bZ8sW4tPWukIL4r5KF+MS1sPXCsav2on1q+o9bQf3Jvbv02tvf8tnZ3fLZ2d3v2dndT9nZ3QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA2dndANnZ3TDZ2d3j2dnd89nZ3fLZ2d3y2Njb8se6t/WukIP4r5KF+MS1sPXCsaz1o31r+otUOP6PWkD9rY6A+dXS1PPZ2d7y2dnd8tnZ3e/Z2d1P2dndAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADZ2d0A2dndMNnZ3ePZ2d3z2dnd8tra3/LKwL70nXRg+8GvqfbCsqz2o31r+otUOP6OWkD+q4p7+crAvvTZ2Nzy2dne8tnZ3fLZ2d3y2dnd79nZ3U/Z2d0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANnZ3QDZ2d0w2dnd49nZ3fPZ2d3y2tvf8sa5tfWOWT7+l2lS/IxVOv6OWkD9q4t8+czCwPTa29/y2tvg8tnZ3fLZ2d3y2dnd8tnZ3fLZ2d3v2dndT9nZ3QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA2dndANnZ3TDZ2d3j2dnd89nZ3fLa29/yxrm19YlQNP6FSiz/o35s+svCwfTU0dPzwLCp9rqknPfQysrz2tvf8tnZ3fLZ2d3y2dnd8tnZ3e/Z2d1P2dndAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADZ2d0A2dndL9nZ3ePZ2d3z2dnd8tra3/LOxsX0kmBH/ZNhSf3Lwb/0wK6o9p10YPuJUDP+hEgq/550YPvQycnz2tre8tnZ3fLZ2d3y2dnd79nZ3U3Z2d0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANnZ3QDZ2d0g2dnd19nZ3fTZ2d3y2dnd8tnZ3vKyl4v4jlk+/pNgSP2ITzP+g0Yo/4pTN/6geGT7pYBv+qmIePnSzc7z2dre8tnZ3fPZ2d3o2dndOtnZ3QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA2dndANnZ3QfZ2d2m2dnd9tnZ3fLZ2d3y2dnd8tbU1/LCsaz1qIZ3+qiFdfmpiHj5wrGs9dbU1/LZ2d3yw7Ou9c/JyfPa2t7y2dnd9dnZ3cPZ2d0U2dndAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADb290A2dndANnZ3UPZ2d3h2dnd9NnZ3fLZ2d3y2dnd8trb3/La2t7y2tre8tra3vLa29/y2dnd8tnZ3fLa2t7y2dnd8tnZ3fPZ2d3t2dndYNnZ3QDZ2d0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADZ2d0A2trdAtnZ3WHZ2d3e2dnd9tnZ3fXZ2d302dnd9NnZ3fTZ2d302dnd9NnZ3fTZ2d302dnd9NnZ3fTZ2d322dnd6NnZ3XvZ2d0I2dndAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADZ2d0A2dndAtnZ3TnZ2d2V2dndxtnZ3dLZ2d3S2dnd0tnZ3dLZ2d3S2dnd0tnZ3dLZ2d3S2dndytnZ3aHZ2d1J2dndBtnZ3QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA2dndANnZ3QTZ2d0V2dndINnZ3SDZ2d0g2dndINnZ3SDZ2d0g2dndINnZ3SDZ2d0Y2dndBtnZ3QDY2N0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/wAP//wAA//4AAH/+AAB//AAAP/wAAD/8AAA//AAAP/wAAD/8AAA//AAAP/wAAD/8AAA//AAAP/wAAD/8AAA//AAAP/4AAH/+AAB//wAA///AA/8=", 'base64');
+if ("TURBOPACK compile-time falsy", 0) {
+    "TURBOPACK unreachable";
+}
+function GET() {
+    return new __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$server$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["NextResponse"](buffer, {
+        headers: {
+            'Content-Type': contentType,
+            'Cache-Control': cacheControl
+        }
+    });
+}
+const dynamic = 'force-static';
+}}),
+
+};
+
+//# sourceMappingURL=%5Broot-of-the-server%5D__a6630747._.js.map
