@@ -29,7 +29,7 @@ export function AboutSection() {
           <div className="glassmorphism-panel p-6 md:p-8">
             <div className="flex flex-col items-center text-center">
               <p className="text-muted-foreground leading-relaxed mb-4">
-                Hi, I'm <b>Sahil Panchal</b>, a <b>Software Web Developer</b> with a passion for turning ideas into real, working digital products.
+                Hi, I'm <b>Sahil Panchal</b>, a <b>Software Developer</b> with a passion for turning ideas into real, working digital products.
               </p>
               <Image
                 src="/images/Sahil2.jpg"
